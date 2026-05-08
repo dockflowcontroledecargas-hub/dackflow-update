@@ -1,12 +1,7 @@
 {
   "versao": "1.1",
   "tipo": "BASIC",
-  "url": "https://drive.google.com/uc?export=download&id=1CpeRe6kw-xDiUB_3DLCTR_yFavZgBW-Z"
-  "notas": [
-        Perfeito. Estas são as Notas oficiais da versão — DockFlow Enterprise v1.2.1, prontas para usar no version.json, popup de atualização e comunicação ao cliente:
-
-{
-  "versao": "1.2.1",
+  "url": "https://drive.google.com/uc?export=download&id=1CpeRe6kw-xDiUB_3DLCTR_yFavZgBW-Z",
   "notas": [
     "Corrigido fluxo de pernoite para seguir as mesmas regras dos registros operacionais",
     "Pernoites finalizados não permanecem em dias posteriores",
