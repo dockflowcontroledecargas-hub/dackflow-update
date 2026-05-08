@@ -2,4 +2,13 @@
   "versao": "1.1",
   "tipo": "BASIC",
   "url": "https://drive.google.com/uc?export=download&id=1CpeRe6kw-xDiUB_3DLCTR_yFavZgBW-Z"
+  "notas": [
+        "Corrigido pernoite persistindo após finalização",
+        "Corrigido scroll horizontal nas tabelas",
+        "Novo controle de permissões por nível",
+        "Sidebar reorganizada",
+        "Configurações agora persistem corretamente",
+        "Migração automática de bancos antigos",
+        "Tela inicial personalizada com nome da empresa"
+    ]
 }
