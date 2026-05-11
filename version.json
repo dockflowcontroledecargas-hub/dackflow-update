@@ -1,7 +1,7 @@
 {
   "versao": "1.2.1",
   "tipo": "BASIC",
-  "url": "https://drive.google.com/uc?export=download&id=1CpeRe6kw-xDiUB_3DLCTR_yFavZgBW-Z",
+  "url": "https://github.com/dockflowcontroledecargas-hub/dockflow-update/releases/download/v1.2.1/DockFlow_Setup.exe",
   "notas": [
     "Corrigido fluxo de pernoite para seguir as mesmas regras dos registros operacionais",
     "Pernoites finalizados não permanecem em dias posteriores",
