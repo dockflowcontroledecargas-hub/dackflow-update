@@ -1,7 +1,6 @@
 {
-"versao": "1.2.1",
-"tipo": "Basic",
-"url": "https://github.com/dockflowcontroledecargas-hub/dockflow-update/releases/download/v1.2.1/DockFlow_Setup.exe",
+"versao": "1.2.2",
+"url": "https://github.com/dockflowcontroledecargas-hub/dockflow-update/releases/download/v1.2.2/DockFlow_Setup.exe",
 "notas": [
 "Correção definitiva do fluxo de pernoite",
 "Correção dos botões iniciar e finalizar",
@@ -11,3 +10,4 @@
 "Atualização automática via GitHub"
 ]
 }
+
