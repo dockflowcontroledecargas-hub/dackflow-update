@@ -1,27 +1,13 @@
 {
-  "versao": "1.2.1",
-  "tipo": "BASIC",
-  "url": "https://github.com/dockflowcontroledecargas-hub/dockflow-update/releases/download/v1.2.1/DockFlow_Setup.exe",
-  "notas": [
-    "Corrigido fluxo de pernoite para seguir as mesmas regras dos registros operacionais",
-    "Pernoites finalizados não permanecem em dias posteriores",
-    "Corrigida sincronização entre Registro Diário e Fora do Horário",
-    "Corrigido scroll horizontal das tabelas sem interferir nos botões de operação",
-    "Melhorada compatibilidade visual com Windows 7",
-    "Reorganizada sidebar com botões de Trocar Usuário e Restaurar Backup no rodapé",
-    "Implementado controle de permissões por nível de usuário (ADMIN, SUPERVISOR e OPERADOR)",
-    "Bloqueio de exportações PDF e Excel para usuários OPERADOR",
-    "Bloqueio de acesso a áreas administrativas conforme nível de permissão",
-    "Corrigida persistência das configurações do sistema após reinicialização",
-    "Configurações agora centralizadas em LOCALAPPDATA",
-    "Implementada leitura automática do nome da empresa na tela inicial",
-    "Nova mensagem personalizada de boas-vindas com usuário e empresa",
-    "Implementada migração automática de bancos de versões anteriores",
-    "Compatibilidade com bancos legados DockFlow e Controle de Cargas",
-    "Eliminada duplicidade no processo de migração de banco",
-    "Adicionadas notas da versão no sistema de atualização",
-    "Preparação da arquitetura para futuras atualizações automáticas sem UAC",
-    "Novo instalador preparado para migração de Program Files para instalação por usuário",
-    "Melhorias gerais de estabilidade, segurança e performance"
-    ]
+"versao": "1.2.1",
+"tipo": "Basic",
+"url": "https://github.com/dockflowcontroledecargas-hub/dockflow-update/releases/download/v1.2.1/DockFlow_Setup.exe",
+"notas": [
+"Correção definitiva do fluxo de pernoite",
+"Correção dos botões iniciar e finalizar",
+"Correção do cadastro e autocomplete de motoristas",
+"Preservação de usuários após atualização",
+"Migração automática de bancos antigos",
+"Atualização automática via GitHub"
+]
 }
